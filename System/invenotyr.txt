@@ -1,0 +1,30 @@
+cleave armor [cleave]
+change armor [flare]+1
+bomb
+boomerang
+
+
+skills
+kiss the dust
+fire torture
+shotgun m16
+valas [ammo]
+
+basuka
+misiles [ammo]
+
+longbow
+arrows [ammo]
+
+skills:
+fireball
+triple fire
+infernal kisscurse armor
+
+armor [poison slash]
+shield [poison slash]
+orb
+
+
+change weapon [x]+1
+cahnge equipment [recipient][weapon etc]
